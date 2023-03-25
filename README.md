@@ -3,11 +3,10 @@ This repository contains the Exploratory Data Analysis (EDA), model training, an
 
 The Movies Dataset - This dataset contains information about movies such as title, release date, budget, revenue, genres, and ratings.
 
-MovieLens 20M Dataset - This dataset contains 20 million ratings of movies by users from the MovieLens website. The dataset also contains metadata about movies such as genres, release year, and title.
+The dataset also contains movies such as genres, release year, and title.
 
 Data Sources
-The Movies Dataset: https://www.kaggle.com/rounakbanik/the-movies-dataset
-MovieLens 20M Dataset: https://grouplens.org/datasets/movielens/20m/
+The Movies Dataset: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv
 Data Cleaning and Preparation
 Before performing the EDA and model training, some data cleaning and preparation was necessary.
 
